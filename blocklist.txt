@@ -1,3 +1,7 @@
 a.root-servers.net
 unagi-na.amazon.com
 unagi-eu.amazon.com
+dit.whatsapp.net
+firebase-settings.crashlytics.com
+api.ad.intl.xiaomi.com
+app-measurement.com
