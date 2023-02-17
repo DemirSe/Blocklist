@@ -5,3 +5,10 @@ dit.whatsapp.net
 firebase-settings.crashlytics.com
 api.ad.intl.xiaomi.com
 app-measurement.com
+teams.events.data.microsoft.com
+device-metrics-us-2.amazon.com
+self.events.data.microsoft.com
+googleads.g.doubleclick.net
+crashlyticsreports-pa.googleapis.com
+tracking.olx-st.com
+ad.doubleclick.net
