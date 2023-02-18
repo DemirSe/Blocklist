@@ -5,3 +5,14 @@ ssl.google-analytics.com
 unagi-na.amazon.com
 unagi-eu.amazon.com
 firebase-settings.crashlytics.com
+adservice.google.com
+googleadservices.com
+static.doubleclick.net
+googleads.g.doubleclick.net
+lcprd1.samsungcloudsolution.net
+app-measurement.com
+ic3.events.data.microsoft.com
+nexusrules.officeapps.live.com
+c.amazon-adsystem.com
+telemetry.malwarebytes.com
+sdkconfig.ad.intl.xiaomi.com
