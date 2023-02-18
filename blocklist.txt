@@ -26,3 +26,12 @@ datacollector-dre.dt.hicloud.com
 securepubads.g.doubleclick.net
 2712.content.swrve.com
 pagead2.googlesyndication.com
+app-analytics-v2.snapchat.com
+cdn.onesignal.com
+static.cloudflareinsights.com
+mc.yandex.ru
+data.mistat.intl.xiaomi.com
+device-metrics-us-2.amazon.com
+www.google-analytics.com
+2712.api.swrve.com
+configv2.unityads.unity3d.com
