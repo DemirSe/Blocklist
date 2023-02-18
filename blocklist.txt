@@ -23,3 +23,6 @@ app.adjust.world
 app.adjust.net.in
 mcg1k8ctmk-tzxt-vcd8zdycs3x0.device.marketingcloudapis.com
 datacollector-dre.dt.hicloud.com
+securepubads.g.doubleclick.net
+2712.content.swrve.com
+pagead2.googlesyndication.com
