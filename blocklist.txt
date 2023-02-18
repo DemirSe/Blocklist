@@ -35,3 +35,8 @@ device-metrics-us-2.amazon.com
 www.google-analytics.com
 2712.api.swrve.com
 configv2.unityads.unity3d.com
+www.googletagmanager.com
+gatr.hit.gemius.pl
+o.gez.io
+bidder.criteo.com
+settings-win.data.microsoft.com
