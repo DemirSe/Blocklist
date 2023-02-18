@@ -16,3 +16,10 @@ nexusrules.officeapps.live.com
 c.amazon-adsystem.com
 telemetry.malwarebytes.com
 sdkconfig.ad.intl.xiaomi.com
+www.googleadservices.com
+diagmon-serviceapi.samsungdm.com
+cdp.cloud.unity3d.com
+app.adjust.world
+app.adjust.net.in
+mcg1k8ctmk-tzxt-vcd8zdycs3x0.device.marketingcloudapis.com
+datacollector-dre.dt.hicloud.com
