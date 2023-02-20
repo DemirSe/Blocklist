@@ -82,3 +82,9 @@ amp.analytics-debugger.com
 fundingchoicesmessages.google.com
 widget.engageya.com
 dmxleo.dailymotion.com
+beacons5.gvt3.com
+browser.events.data.msn.com
+collector.github.com
+c.evidon.com
+hepsiads-ui.hepsiburada.com
+metrics.roblox.com
