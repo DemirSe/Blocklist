@@ -88,3 +88,9 @@ collector.github.com
 c.evidon.com
 hepsiads-ui.hepsiburada.com
 metrics.roblox.com
+hepsiburada01.wt-eu02.net
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
+hstats.hepsiburada.com
