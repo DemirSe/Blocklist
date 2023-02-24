@@ -94,3 +94,9 @@ beacons3.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 hstats.hepsiburada.com
+handm-mkt-prod1-nlb.campaign.adobe.com
+ad.doubleclick.net
+mon.isnssdk.com
+sdk.fra-01.braze.eu
+tags.tiqcdn.com
+launches.appsflyer.com
