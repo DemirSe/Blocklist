@@ -2,3 +2,4 @@ a.root-servers.net
 dit.whatsapp.net
 unagi-na.amazon.com
 sdkconfig.ad.intl.xiaomi.com
+ssl.google-analytics.com
