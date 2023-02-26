@@ -1,1 +1,3 @@
 a.root-servers.net
+dit.whatsapp.net
+unagi-na.amazon.com
